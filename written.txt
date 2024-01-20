@@ -1,6 +1,0 @@
-1. No, searching for only the first kmer may not provide right output as a 
-sequence may not start with the firs k-mer
-
-2. First step is to have an effective database indexing scheme as
-the database is accessed often.
-Another step is to create clusters of similar sequences for a smaller search area
